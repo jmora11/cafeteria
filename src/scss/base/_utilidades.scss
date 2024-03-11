@@ -1,0 +1,8 @@
+@use 'variables' as v;
+
+.text-center {
+    align-items: center;
+}
+.bg-primario {
+    background-color: v.$primario;
+}
